@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": "AMAN SINGH",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/104211392?v=4",
+        "email": "2021kuec2061@iiitkota.ac.in",
+        "phone": "+917355690720",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": "Gorakhpur",
+            "postalCode": "273202",
+            "city": "Gorakhpur",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "B Tech",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "",
+            "keywords": [
+                "",
+                ""
+            ]
+        }
+    ]
+}
